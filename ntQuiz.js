@@ -132,8 +132,8 @@ const newTestamentQuestions = [ // the questions go here
   },
   {
     question: "What is meant by textual criticism?", // - 
-    options: ["Find the mistakes in the text", "Find the latest text", "Find the earlist text", "Criticize the text"],
-    answer: "Find the earlist text",
+    options: ["Find the mistakes in the text", "Find the latest text", "Find the earliest text", "Criticize the text"],
+    answer: "Find the earliest text",
   },
   {
     question: "Where are the original manuscripts of the New Testament?", // - 
@@ -142,7 +142,7 @@ const newTestamentQuestions = [ // the questions go here
   },
   {
     question: "Which of the following does NOT describe Matthew", // - 
-    options: ["The most structured book of the four gospels", "Was a publican (tax collctor)", "Really tries to emphasize that Jesus is the Son of David", "Primary audience was the Gentiles"],
+    options: ["The most structured book of the four gospels", "Was a publican (tax collector)", "Really tries to emphasize that Jesus is the Son of David", "Primary audience was the Gentiles"],
     answer: "Primary audience was the Gentiles",
   },
   // 25
